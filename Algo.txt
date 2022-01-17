@@ -1,0 +1,2 @@
+Step 1: Pick the pizza place 
+Step 2: Pick the type of pizza & additional items
