@@ -1,2 +1,4 @@
 Step 1: Pick the pizza place 
 Step 2: Pick the type of pizza & additional items
+Step 3:Place the Order
+Step 4: Wait on the delivery
